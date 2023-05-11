@@ -6,4 +6,4 @@
 - Alize Barrientos  -
 - Prabin Ghaley     -
 - Kaia Siripanyo    - pwd
-- Melvin Towo       - 
+- Melvin Towo       - history
