@@ -4,6 +4,6 @@
 ## Built-in Commands
 - Mauro Alvarenga   -
 - Alize Barrientos  -
-- Prabin Ghaley     -
+- Prabin Ghaley     - break
 - Kaia Siripanyo    - pwd
-- Melvin Towo       - history
+- Melvin Towo       - History
